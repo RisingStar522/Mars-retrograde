@@ -88,7 +88,7 @@ export default function App() {
     <div className="App">
       <div className="container">
       <div class="ribbon">
-        <a href="https://github.com/RisingStar522">Fork me on GitHub</a>
+        <a href="https://github.com/RisingStar522/Mars-retrograde">Fork me on GitHub</a>
       </div>
         <div className="svg-container">
           {/* <svg id="demo" xmlns="http://www.w3.org/2000/svg" width="3200" height="3200" viewBox="0 0 800 800"> */}
